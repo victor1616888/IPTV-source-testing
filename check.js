@@ -104,7 +104,7 @@ async function checkallurl(data){
     }, '');
 }
 async function loadexturl(){
-    // const loadlist='https://raw.githubusercontent.com/qist/tvbox/master/list.txt'
+    // const loadlist='https://d.kstore.space/download/3329/20230109.txt'
     await execmd('printf -- \"' + '\"' + ' >live.txt');
     await CHECK_URL.reduce(async (memo, url) => {
         await memo;
