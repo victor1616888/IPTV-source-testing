@@ -2,11 +2,11 @@
 
 
 const CHECK_URL = [
-    "https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
     "https://d.kstore.space/download/3329/20230109.txt",
      "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/main/IPTV/%E6%97%A0%E7%95%8C.IPTV",
     "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
     "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
+    "https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
 ];
 
 const PROXY_ENV = 'http_proxy=http://127.0.0.1:7890 https_proxy=http://127.0.0.1:7890';
